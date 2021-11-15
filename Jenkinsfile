@@ -3,7 +3,7 @@ pipeline{
 	stages{
 	 stage ('first'){
 	   steps{	
-             echo 'something else check new'
+             echo 'something naya'
 	   }
 	 }
 	}
